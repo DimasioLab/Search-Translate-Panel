@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Search & Translate Panel",
+  "version": "0.0.0",
+  "description": "Search panel for selected text, translator window, OCR, page translation, history, text-to-speech.",
+  "icons": { "16": "icons/icon16.png", "32": "icons/icon32.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
+  "action": { "default_title": "Search & Translate Panel" },
+  "permissions": ["storage", "clipboardWrite", "clipboardRead", "contextMenus"],
+  "host_permissions": [
+    "https://translate.googleapis.com/*",
+    "https://api.mymemory.translated.net/*",
+    "https://api.ocr.space/*",
+    "https://www.google.com/*",
+    "https://*.gstatic.com/*",
+    "https://icons.duckduckgo.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ]
+}

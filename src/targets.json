@@ -1,0 +1,25 @@
+{
+  "project": {
+    "slug": "search-translate-panel",
+    "author": "DimasioLab",
+    "license": "MIT",
+    "repo": "https://github.com/DimasioLab/Search-Translate-Panel",
+    "greasyforkId": ""
+  },
+  "chromium": {
+    "background": { "service_worker": "background.js" },
+    "addPermissions": ["offscreen"],
+    "files": ["offscreen.html", "offscreen.js"]
+  },
+  "firefox": {
+    "background": { "scripts": ["background.js"] },
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "search-translate-panel@dimasiolab.github.io",
+        "strict_min_version": "140.0",
+        "data_collection_permissions": { "required": ["websiteContent"] }
+      },
+      "gecko_android": { "strict_min_version": "142.0" }
+    }
+  }
+}

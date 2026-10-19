@@ -1,0 +1,16 @@
+{
+  "name": "search-translate-panel",
+  "version": "1.0.0",
+  "description": "Search & Translate Panel: one codebase -> userscript, Edge/Chrome extension, Firefox extension",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:userscript": "node scripts/build.mjs userscript",
+    "build:edge": "node scripts/build.mjs chromium",
+    "build:firefox": "node scripts/build.mjs firefox",
+    "build:source": "node scripts/build.mjs source"
+  }
+}
