@@ -6,6 +6,7 @@ One codebase → userscript, Edge extension, Firefox extension.
 ## Install
 
 | Where | Link |
+|---|---|
 | Userscript (Tampermonkey / Violentmonkey) | [Install from Greasy Fork](https://greasyfork.org/scripts/600971-search-translate-panel) |
 | Microsoft Edge | Edge Add-ons — _link_ |
 | Firefox | addons.mozilla.org — _link_ |
