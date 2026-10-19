@@ -10,7 +10,7 @@ One codebase → userscript, Edge extension, Firefox extension.
 | Userscript (Tampermonkey / Violentmonkey) | Greasy Fork — _https://greasyfork.org/ru/scripts/600971-search-translate-panel?locale_override=1_ |
 | Microsoft Edge | Edge Add-ons — _link_ |
 | Firefox | addons.mozilla.org — _link_ |
-| Manual | [Releases] https://github.com/DimasioLab/Search-Translate-Panel/releases |
+| Manual | [Releases](https://github.com/DimasioLab/Search-Translate-Panel/releases) |
 
 Defaults: `Alt+Z` translate selection, `Alt+Shift+Z` translate clipboard.
 In the extension: toolbar icon = settings, right-click on icon = exclude site / Up / Down. In the userscript the same items are in the Tampermonkey menu.
