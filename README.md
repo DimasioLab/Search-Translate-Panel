@@ -3,9 +3,7 @@
 Search panel for selected text, translator window, OCR, page translation, history, text-to-speech.
 One codebase → userscript, Edge extension, Firefox extension.
 
-<img width="343" height="146" alt="chrome_saxuGNGsmI" src="https://github.com/user-attachments/assets/ce6659f2-46e5-4d44-8dcc-00101f80417b" />
-<img width="557" height="632" alt="chrome_DdpqZ8bWMO" src="https://github.com/user-attachments/assets/960b99ab-b1ca-4dc8-822b-5489ce7965ca" />
-<img width="592" height="391" alt="chrome_pM4CwjLk7D" src="https://github.com/user-attachments/assets/404aba05-3369-4566-867f-03f43e4eae28" />
+
 <img width="1600" height="739" alt="chrome_BXiTIHEI6N" src="https://github.com/user-attachments/assets/3dd2e367-4227-4fbc-b799-bed053bf3916" />
 
 
