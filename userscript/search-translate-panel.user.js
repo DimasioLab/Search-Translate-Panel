@@ -3,8 +3,8 @@
 // @name:ru      Панель поиска и перевода
 // @namespace    https://github.com/DimasioLab/Search-Translate-Panel
 // @version      1.0.0
-// @description  Search panel for selected text, translator window, OCR, page translation, history, text-to-speech.
-// @description:ru Панель поиска по выделенному тексту, переводчик, OCR, перевод страницы, история, озвучка.
+// @description  Search panel for selected text, translator window, OCR, page translation.
+// @description:ru Панель поиска по выделенному тексту, переводчик, OCR, перевод страницы.
 // @author       DimasioLab
 // @license      MIT
 // @homepageURL  https://github.com/DimasioLab/Search-Translate-Panel
