@@ -15,8 +15,8 @@ One codebase → userscript, Edge extension, Firefox extension.
 | Where | Link |
 |---|---|
 | Userscript (Tampermonkey / Violentmonkey) | [Install from Greasy Fork](https://greasyfork.org/scripts/600971-search-translate-panel) |
-| Microsoft Edge | Edge Add-ons — _link_ |
-| Firefox | addons.mozilla.org — _link_ |
+| Microsoft Edge | Edge Add-ons — _(https://microsoftedge.microsoft.com/addons/detail/fdmjdhmdlhbiolnaodhjijljcjnndaoj)_ |
+| Firefox | addons.mozilla.org — _(https://addons.mozilla.org/ru/firefox/addon/search-translate-panel/)_ |
 | Manual | [Releases](https://github.com/DimasioLab/Search-Translate-Panel/releases) |
 
 Defaults: `Alt+Z` translate selection, `Alt+Shift+Z` translate clipboard.
