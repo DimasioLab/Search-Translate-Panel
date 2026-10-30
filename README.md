@@ -14,7 +14,7 @@ One codebase → userscript, Edge extension, Firefox extension.
 
 | Where | Link |
 |---|---|
-| Userscript (Tampermonkey / Violentmonkey) | [Install from Greasy Fork](https://greasyfork.org/scripts/600971-search-translate-panel) |
+| Userscript (Tampermonkey / Violentmonkey) | [Install Userscript](https://greasyfork.org/scripts/600971-search-translate-panel) |
 | Microsoft Edge | [Add-ons](https://microsoftedge.microsoft.com/addons/detail/fdmjdhmdlhbiolnaodhjijljcjnndaoj) |
 | Firefox | [Add-ons](https://addons.mozilla.org/ru/firefox/addon/search-translate-panel) | 
 | Manual | [Releases](https://github.com/DimasioLab/Search-Translate-Panel/releases) |
